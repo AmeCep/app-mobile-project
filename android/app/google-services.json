@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904260307344",
+    "project_id": "desarrollomobile-b195d",
+    "storage_bucket": "desarrollomobile-b195d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904260307344:android:9e49e109892fda18770b15",
+        "android_client_info": {
+          "package_name": "com.example.desarrollo_movil_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2uCmIBtH-ApNDh7q9c36oViVNNM9G5bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
